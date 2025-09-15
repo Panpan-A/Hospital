@@ -1,4 +1,4 @@
 {
     "name": "Hospital",
-    "srcDir": "public"
+    "srcDir": "resources/views"
 }
